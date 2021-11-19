@@ -18,27 +18,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-oxford-rg_1_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-oxford-rg_1_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-oxford-rg_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-oxford-rg_3.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-oxford-rg-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-oxford-rg-40.png'
       }
     ]
   },
@@ -61,27 +61,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-canterbury-rg_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-canterbury-rg_2.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1_1.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2_1.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_1.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-canterbury-rg_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-canterbury-rg_3.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-canterbury-rg-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-canterbury-rg-40.png'
       }
     ]
   },
@@ -104,27 +104,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-cambridge-rg_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-cambridge-rg_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2_2.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1_2.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_2.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-canterbury-rg_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-canterbury-rg_2.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-cambridge-rg-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-cambridge-rg-40.png'
       }
     ]
   },
@@ -147,27 +147,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-glasgow-rg_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-glasgow-rg_3.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2_3.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1_3.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_3.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-glasgow-rg_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-glasgow-rg_3.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-glasgow-rg-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-glasgow-rg-40.png'
       }
     ]
   },
@@ -190,31 +190,31 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-stmawes-rg_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-stmawes-rg_2.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic-st-mawes-40mm-rg-white-classic-bracelet.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic-st-mawes-40mm-rg-white-classic-bracelet.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1_5.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2_5.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_5.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-stmawes-rg_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-stmawes-rg_6.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-st-mawes-rg-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-st-mawes-rg-40.png'
       }
     ]
   },
@@ -237,31 +237,31 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-sheffield-rg_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-sheffield-rg_3.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic-sheffield-rg-white-40.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic-sheffield-rg-white-40.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1_6.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2_6.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_6.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-sheffield-rg_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-sheffield-rg_5.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-sheffield-rg-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-sheffield-rg-40.png'
       }
     ]
   },
@@ -284,23 +284,23 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-bristol-rg_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-bristol-rg_3.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1_7.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1_7.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2_7.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2_7.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_7.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_7.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-bristol-rg_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-bristol-rg_5.png'
       }
     ]
   },
@@ -323,27 +323,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-york-rg_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-york-rg_4.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1_8.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1_8.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2_8.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2_8.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_8.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_8.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-york-rg_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-york-rg_2.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-york-rg-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-york-rg-40.png'
       }
     ]
   },
@@ -366,27 +366,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-reading-rg_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-reading-rg_2.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2_9.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2_9.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1_9.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1_9.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_9.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_9.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/p/dp-38-reading-rg_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/p/dp-38-reading-rg_4.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-reading-rg-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-reading-rg-40.png'
       }
     ]
   },
@@ -409,27 +409,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-cambridge-s_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-cambridge-s_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front1_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front1_2.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front2_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front2_2.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_back_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_back_2.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-canterbury-s_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-canterbury-s_2.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-cambridge-s-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-cambridge-s-40.png'
       }
     ]
   },
@@ -452,27 +452,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-glasgow-s_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-glasgow-s_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front2_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front2_3.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front1_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front1_3.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_back_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_back_3.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-glasgow-s_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-glasgow-s_2.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-glasgow-s-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-glasgow-s-40.png'
       }
     ]
   },
@@ -495,31 +495,31 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-sheffield-s_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-sheffield-s_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic-sheffield-white-s-40.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic-sheffield-white-s-40.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front1_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front1_5.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front2_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front2_5.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_back_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_back_5.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-sheffield-s_1_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-sheffield-s_1_1.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-sheffield-s-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-sheffield-s-40.png'
       }
     ]
   },
@@ -542,27 +542,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-stmawes-s_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-stmawes-s_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front1_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front1_6.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front2_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front2_6.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_back_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_back_6.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-stmawes-s_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-stmawes-s_1.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-st-mawes-s-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-st-mawes-s-40.png'
       }
     ]
   },
@@ -585,31 +585,31 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-reading-s_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-reading-s_2.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_reading_s_40mm_white_dial_efeefeturi.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_reading_s_40mm_white_dial_efeefeturi.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front1_9.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front1_9.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front2_9.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_front2_9.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_back_9.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_back_9.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/p/dp-38-reading-s_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/p/dp-38-reading-s_4.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-reading-s-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-reading-s-40.png'
       }
     ]
   },
@@ -632,27 +632,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-canterbury-rg_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-canterbury-rg_2.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front2_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front2_1.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front1_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front1_1.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_back.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_back.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-canterbury-rg_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-canterbury-rg_2.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-canterbury-rg-36.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-canterbury-rg-36.png'
       }
     ]
   },
@@ -675,27 +675,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-winchester-rg_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-winchester-rg_2.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front2_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front2_3.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front1_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front1_3.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_back_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_back_2.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-winchester-rg_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-winchester-rg_2.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-winchester-rg-36.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-winchester-rg-36.png'
       }
     ]
   },
@@ -718,27 +718,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-southport-rg.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-southport-rg.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front2_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front2_4.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front1_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front1_4.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_back_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_back_3.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-southampton-rg_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-southampton-rg_2.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-southampton-rg-36.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-southampton-rg-36.png'
       }
     ]
   },
@@ -761,27 +761,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-stmawes-rg_1_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-stmawes-rg_1_2.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front2_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front2_5.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front1_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front1_5.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_back_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_back_4.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-stmawes-rg_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-stmawes-rg_6.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-st-mawes-rg-36.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-st-mawes-rg-36.png'
       }
     ]
   },
@@ -804,35 +804,35 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-sheffield-rg_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-sheffield-rg_3.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_sheffield_rg_36mm_white_dial_2_yourstrulyyinka_1.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_sheffield_rg_36mm_white_dial_2_yourstrulyyinka_1.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_sheffield_rg_36mm_white_dial_2_yourstrulyyinka.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_sheffield_rg_36mm_white_dial_2_yourstrulyyinka.jpg'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front2_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front2_6.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front1_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front1_6.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_back_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_back_5.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-sheffield-rg_8.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-sheffield-rg_8.png'
       },
       {
         order: '7',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-sheffield-rg-36.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-sheffield-rg-36.png'
       }
     ]
   },
@@ -855,27 +855,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-bristol-rg_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-bristol-rg_3.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front2_8.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front2_8.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front1_8.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front1_8.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_back_7.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_back_7.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-bristol-rg_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-bristol-rg_5.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-bristol-rg-36.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-bristol-rg-36.png'
       }
     ]
   },
@@ -898,31 +898,31 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-glasgow-s_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-glasgow-s_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_glasgow_s_36mm_white_dial_floyd5au.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_glasgow_s_36mm_white_dial_floyd5au.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_front2_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_front2_1.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_front1_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_front1_1.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_back_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_back_2.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-glasgow-s_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-glasgow-s_2.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-glasgow-s-36.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-glasgow-s-36.png'
       }
     ]
   },
@@ -945,27 +945,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-canterbury-s_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-canterbury-s_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_front1_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_front1_4.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_front2_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_front2_4.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_back_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_back_5.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-canterbury-s_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-canterbury-s_2.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-canterbury-s-36.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-canterbury-s-36.png'
       }
     ]
   },
@@ -988,27 +988,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-sheffield-s_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-sheffield-s_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_front2_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_front2_6.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_front1_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_front1_6.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_back_7.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_back_7.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-sheffield-s_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-sheffield-s_5.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-sheffield-s-36.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-sheffield-s-36.png'
       }
     ]
   },
@@ -1031,27 +1031,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-durham-rg-cat.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl40-durham-rg-cat.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2_12.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front2_12.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1_12.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_front1_12.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_12.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_12.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-durham-rg_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-durham-rg_1.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-durham-rg-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-durham-rg-40.png'
       }
     ]
   },
@@ -1074,27 +1074,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-durham-rg-cat_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-durham-rg-cat_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front2_12.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front2_12.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front1_12.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_front1_12.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_back_11.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_back_11.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-durham-rg_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-durham-rg_1.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-durham-rg-36.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-durham-rg-36.png'
       }
     ]
   },
@@ -1117,31 +1117,31 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-stmawes-40rg.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-stmawes-40rg.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg01.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg01.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg02.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg02.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg03.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg03.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_18.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_18.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-st-mawes-rg-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-st-mawes-rg-40.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-stmawes-rg_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-stmawes-rg_5.png'
       }
     ]
   },
@@ -1164,35 +1164,35 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-bristol-40rg.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-bristol-40rg.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_bristol_rg_40mm_black_dial_raymondmuaya.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_bristol_rg_40mm_black_dial_raymondmuaya.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg02_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg02_1.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg01_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg01_1.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg03_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg03_1.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_19.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_19.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-bristol-rg_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-bristol-rg_4.png'
       },
       {
         order: '7',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-bristol-rg-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-bristol-rg-40.png'
       }
     ]
   },
@@ -1215,35 +1215,35 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-sheffield-40rg.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-sheffield-40rg.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classick-sheffield-black-rg-40-themisterwayne.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classick-sheffield-black-rg-40-themisterwayne.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg01_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg01_3.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg02_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg02_3.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg03_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg03_3.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_21.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_21.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-sheffield-rg_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-sheffield-rg_4.png'
       },
       {
         order: '7',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-sheffield-rg-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-sheffield-rg-40.png'
       }
     ]
   },
@@ -1266,35 +1266,35 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-york-40rg.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-york-40rg.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_york_rg_40mm_black_dial_garimashares1.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_york_rg_40mm_black_dial_garimashares1.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg01_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg01_4.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg02_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg02_4.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg03_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg03_4.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_22.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_22.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-york-rg_2_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-york-rg_2_1.png'
       },
       {
         order: '7',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-york-rg-40.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-york-rg-40.jpg'
       }
     ]
   },
@@ -1317,35 +1317,35 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-reading-40rg.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-reading-40rg.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_reading_rg_40mm_black_dial_garimashares2.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_reading_rg_40mm_black_dial_garimashares2.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg01_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg01_5.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg02_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg02_5.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg03_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg03_5.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_23.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_23.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/p/dp-38-reading-rg_4_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/p/dp-38-reading-rg_4_1.png'
       },
       {
         order: '7',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-reading-rg-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-reading-rg-40.png'
       }
     ]
   },
@@ -1368,31 +1368,31 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-sheffield-40s.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-sheffield-40s.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40s01_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40s01_3.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40s02_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40s02_3.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40s03_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40s03_3.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_back_19.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_back_19.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-sheffield-s_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-sheffield-s_3.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-sheffield-s-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-sheffield-s-40.png'
       }
     ]
   },
@@ -1415,35 +1415,35 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-reading-40s.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-reading-40s.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_reading_s_40mm_black_dial_keymanstyle.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_reading_s_40mm_black_dial_keymanstyle.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40s01_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40s01_5.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40s02_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40s02_5.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40s03_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40s03_5.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_back_21.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_back_21.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/p/dp-38-reading-s_4_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/p/dp-38-reading-s_4_1.png'
       },
       {
         order: '7',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-reading-s-40.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-reading-s-40.jpg'
       }
     ]
   },
@@ -1466,31 +1466,31 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-stmawes-36rg.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-stmawes-36rg.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36rg02.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36rg02.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36rg01.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36rg01.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36rg03.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36rg03.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_back_14.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_back_14.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-stmawes-rg_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-stmawes-rg_5.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-st-mawes-rg-36.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-st-mawes-rg-36.png'
       }
     ]
   },
@@ -1513,31 +1513,31 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-sheffield-36rg.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-sheffield-36rg.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36rg01_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36rg01_3.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36rg03_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36rg03_3.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36rg02_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36rg02_3.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_back_17.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_back_17.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-sheffield-rg_7.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-sheffield-rg_7.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-sheffield-rg-36.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-sheffield-rg-36.png'
       }
     ]
   },
@@ -1560,35 +1560,35 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-sheffield-36s.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-sheffield-36s.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_sheffield_s_36mm_black_dial_carolinatoledo.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_sheffield_s_36mm_black_dial_carolinatoledo.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36s01_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36s01_4.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36s02_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36s02_4.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36s03_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36s03_4.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_back_18.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_back_18.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-sheffield-s_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-sheffield-s_4.png'
       },
       {
         order: '7',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-sheffield-s-36.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-sheffield-s-36.png'
       }
     ]
   },
@@ -1611,35 +1611,35 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-cornwall-40rg.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-cornwall-40rg.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic-cornwall-black-rg-40-saratickle_1.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic-cornwall-black-rg-40-saratickle_1.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg01_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg01_6.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg02_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg02_6.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg03_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40rg03_6.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_24.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40rg_closeup_back_24.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-cornwall-rg_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-cornwall-rg_1.png'
       },
       {
         order: '7',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-cornwall-rg-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-cornwall-rg-40.png'
       }
     ]
   },
@@ -1662,31 +1662,31 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-cornwall-40s.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-cornwall-40s.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40s01_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40s01_6.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40s02_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40s02_6.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40s03_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl40s03_6.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_back_22.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_40s_closeup_back_22.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-cornwall-s_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-cornwall-s_1.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-cornwall-s-40.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-cornwall-s-40.png'
       }
     ]
   },
@@ -1709,35 +1709,35 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-cornwall-36rg.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-cornwall-36rg.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_cornwall_rg_36mm_black_dial_saratickle01.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_cornwall_rg_36mm_black_dial_saratickle01.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36rg03_7.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36rg03_7.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36rg02_7.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36rg02_7.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36rg01_7.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36rg01_7.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_back_20.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36rg_closeup_back_20.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-cornwall-rg.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-cornwall-rg.png'
       },
       {
         order: '7',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-cornwall-rg-36.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-cornwall-rg-36.png'
       }
     ]
   },
@@ -1760,31 +1760,31 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-cornwall-36s.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-cornwall-36s.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36s03_7.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36s03_7.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36s01_7.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36s01_7.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36s02_7.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/clbl36s02_7.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_back_21.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_classic_36s_closeup_back_21.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-cornwall-s.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-cornwall-s.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-cornwall-s-36.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-black-cornwall-s-36.png'
       }
     ]
   },
@@ -1807,35 +1807,35 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petit-melrose-black.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petit-melrose-black.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/2/1/219_1200x1200_classic_petite_melrose_b32rg.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/2/1/219_1200x1200_classic_petite_melrose_b32rg.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petit-melrose-strap.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petit-melrose-strap.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_b32rg_closeup_front2_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_b32rg_closeup_front2_3.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_b32rg_closeup_front1_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_b32rg_closeup_front1_3.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_back.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_back.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00100161_petite_melrose_b32rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00100161_petite_melrose_b32rg_box.png'
       },
       {
         order: '7',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petite-melrose-32mm-black-cuff-rg-saratickle.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petite-melrose-32mm-black-cuff-rg-saratickle.jpg'
       }
     ]
   },
@@ -1858,27 +1858,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petit-sterling-black.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petit-sterling-black.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_b32s_closeup_front2_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_b32s_closeup_front2_4.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_b32s_closeup_front1_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_b32s_closeup_front1_3.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petit-sterling-strap.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petit-sterling-strap.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32s_closeup_back.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32s_closeup_back.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00100162_petite_sterling_b32s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00100162_petite_sterling_b32s_box.png'
       }
     ]
   },
@@ -1901,35 +1901,35 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petit-melrose-white.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petit-melrose-white.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/2/1/219_1200x1200_classic_petite_melrose_w32rg.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/2/1/219_1200x1200_classic_petite_melrose_w32rg.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petit-melrose-strap_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petit-melrose-strap_1.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_front1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_front1.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_front2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_front2.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_back_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_back_1.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00100163_petite_melrose_w32rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00100163_petite_melrose_w32rg_box.png'
       },
       {
         order: '7',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petite-melrose_white-32.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petite-melrose_white-32.jpg'
       }
     ]
   },
@@ -1952,31 +1952,31 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petit-sterling-white.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petit-sterling-white.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_petite_s_32mm_white_dial_nuriaoliu.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic_petite_s_32mm_white_dial_nuriaoliu.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32s_closeup_front1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32s_closeup_front1.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32s_closeup_front2_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32s_closeup_front2_2.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00100164_petite_sterling_w32s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00100164_petite_sterling_w32s_box.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petit-sterling-strap_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petit-sterling-strap_1.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32s_closeup_back_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32s_closeup_back_1.png'
       }
     ]
   },
@@ -1999,27 +1999,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-petite-sheffield-rg-cat.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-petite-sheffield-rg-cat.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_b32rg_closeup_front1_7.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_b32rg_closeup_front1_7.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_b32rg_closeup_front2_7.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_b32rg_closeup_front2_7.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_back_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_back_5.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-petite-sheffield-rg-black-32.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-petite-sheffield-rg-black-32.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petite-32-sheffield-rg.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petite-32-sheffield-rg.png'
       }
     ]
   },
@@ -2042,27 +2042,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-petite-st-mawes-rg-cat.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-petite-st-mawes-rg-cat.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_b32rg_closeup_front2_8.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_b32rg_closeup_front2_8.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_b32rg_closeup_front1_8.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_b32rg_closeup_front1_8.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_back_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_back_6.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petite-32-st-mawes-rg.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petite-32-st-mawes-rg.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-petite-st-mawes-rg-black-32.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-petite-st-mawes-rg-black-32.png'
       }
     ]
   },
@@ -2085,27 +2085,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-petite-bristol-rg-white-cat_1_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-petite-bristol-rg-white-cat_1_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_front2_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_front2_1.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_front1_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_front1_1.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_back_9.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_back_9.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petite-32-bristol-rg_1_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petite-32-bristol-rg_1_2.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-petite-bristol-rg-32.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-petite-bristol-rg-32.png'
       }
     ]
   },
@@ -2128,27 +2128,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-petite-durham-rg-white-cat_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-petite-durham-rg-white-cat_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_front1_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_front1_2.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_front2_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_front2_2.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petite-32-durham-rg_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petite-32-durham-rg_3.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_back_10.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_back_10.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-petite-durham-rg-32.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-petite-durham-rg-32.png'
       }
     ]
   },
@@ -2171,27 +2171,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-petite-sheffield-rg-white-cat.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-petite-sheffield-rg-white-cat.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petite-32-sheffield-rg_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/p/e/petite-32-sheffield-rg_1.png'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_front1_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_front1_4.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_front2_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_front2_4.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_back_12.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_petite_32rg_closeup_back_12.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-petite-sheffield-rg-32.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/b/o/box-classic-petite-sheffield-rg-32.png'
       }
     ]
   },
@@ -2214,11 +2214,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-oxford-rg_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-oxford-rg_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_oxford_40rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_oxford_40rg_box.png'
       }
     ]
   },
@@ -2241,11 +2241,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-canterbury-rg_2_.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-canterbury-rg_2_.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_canterbury_40rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_canterbury_40rg_box.png'
       }
     ]
   },
@@ -2268,7 +2268,7 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-cambridge-rg_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-cambridge-rg_2.png'
       }
     ]
   },
@@ -2291,11 +2291,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-glasgow-rg_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-glasgow-rg_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_glasgow_40rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_glasgow_40rg_box.png'
       }
     ]
   },
@@ -2318,11 +2318,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-warwick-rg_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-warwick-rg_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_warwick_40rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_warwick_40rg_box.png'
       }
     ]
   },
@@ -2345,11 +2345,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-stmawes-rg_7.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-stmawes-rg_7.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_stmawes_40rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_stmawes_40rg_box.png'
       }
     ]
   },
@@ -2372,11 +2372,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-sheffield-rg_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-sheffield-rg_6.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_sheffield_40rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_sheffield_40rg_box.png'
       }
     ]
   },
@@ -2399,11 +2399,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-bristol-rg_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-bristol-rg_6.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_bristol_40rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_bristol_40rg_box.png'
       }
     ]
   },
@@ -2426,11 +2426,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-york-rg_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-york-rg_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_york_40rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_york_40rg_box.png'
       }
     ]
   },
@@ -2453,11 +2453,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/p/dp-38-reading-rg_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/p/dp-38-reading-rg_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_reading_40rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_reading_40rg_box.png'
       }
     ]
   },
@@ -2480,11 +2480,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-canterbury-s_2_.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-canterbury-s_2_.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_canterbury_40s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_canterbury_40s_box.png'
       }
     ]
   },
@@ -2507,7 +2507,7 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-cambridge-s_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-cambridge-s_3.png'
       }
     ]
   },
@@ -2530,11 +2530,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-glasgow-s_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-glasgow-s_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_glasgow_40s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_glasgow_40s_box.png'
       }
     ]
   },
@@ -2557,11 +2557,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-sheffield-s_1_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-sheffield-s_1_2.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_sheffield_40s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_sheffield_40s_box.png'
       }
     ]
   },
@@ -2584,11 +2584,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-stmawes-s_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-stmawes-s_2.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_stmawes_40s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_stmawes_40s_box.png'
       }
     ]
   },
@@ -2611,11 +2611,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-bristol-s_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-bristol-s_5.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_bristol_40s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_bristol_40s_box.png'
       }
     ]
   },
@@ -2638,11 +2638,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/p/dp-38-reading-s_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/p/dp-38-reading-s_2.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_reading_40s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_reading_40s_box.png'
       }
     ]
   },
@@ -2665,11 +2665,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-oxford-rg_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-oxford-rg_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_oxford_36rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_oxford_36rg_box.png'
       }
     ]
   },
@@ -2692,11 +2692,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-canterbury-rg_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-canterbury-rg_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_canterbury_36rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_canterbury_36rg_box.png'
       }
     ]
   },
@@ -2719,11 +2719,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-glasgow-rg_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-glasgow-rg_2.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_glasgow_36rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_glasgow_36rg_box.png'
       }
     ]
   },
@@ -2746,11 +2746,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-winchester-rg_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-winchester-rg_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_winchester_36rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_winchester_36rg_box.png'
       }
     ]
   },
@@ -2773,11 +2773,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-southampton-rg_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-southampton-rg_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_southampton_36rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_southampton_36rg_box.png'
       }
     ]
   },
@@ -2800,11 +2800,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-stmawes-rg_7.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-stmawes-rg_7.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_stmawes_36rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_stmawes_36rg_box.png'
       }
     ]
   },
@@ -2827,11 +2827,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-sheffield-rg_9.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-sheffield-rg_9.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_sheffield_36rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_sheffield_36rg_box.png'
       }
     ]
   },
@@ -2854,7 +2854,7 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-york-rg_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-york-rg_1.png'
       }
     ]
   },
@@ -2877,11 +2877,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-bristol-rg_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-bristol-rg_6.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_bristol_36rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_bristol_36rg_box.png'
       }
     ]
   },
@@ -2904,11 +2904,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/p/dp-38-reading-rg_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/p/dp-38-reading-rg_3.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_reading_36rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_reading_36rg_box.png'
       }
     ]
   },
@@ -2931,11 +2931,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-glasgow-s_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-glasgow-s_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_glasgow_36s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_glasgow_36s_box.png'
       }
     ]
   },
@@ -2958,11 +2958,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-southampton-s_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-southampton-s_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_southampton_36s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_southampton_36s_box.png'
       }
     ]
   },
@@ -2985,11 +2985,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-canterbury-s_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-canterbury-s_3.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_canterbury_36s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_canterbury_36s_box.png'
       }
     ]
   },
@@ -3012,11 +3012,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-stmawes-s_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-stmawes-s_5.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_stmawes_36s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_stmawes_36s_box.png'
       }
     ]
   },
@@ -3039,11 +3039,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-sheffield-s_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-sheffield-s_6.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_sheffield_36s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_sheffield_36s_box.png'
       }
     ]
   },
@@ -3066,11 +3066,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-bristol-s_6.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-bristol-s_6.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_bristol_36s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_bristol_36s_box.png'
       }
     ]
   },
@@ -3093,11 +3093,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-stmawes-s_2_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-stmawes-s_2_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_stmawes_40s_box_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_stmawes_40s_box_1.png'
       }
     ]
   },
@@ -3120,11 +3120,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-sheffield-rg_9_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-sheffield-rg_9_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_sheffield_36rg_box_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_sheffield_36rg_box_1.png'
       }
     ]
   },
@@ -3147,11 +3147,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-durham-rg_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-durham-rg_2.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_durham_40rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_durham_40rg_box.png'
       }
     ]
   },
@@ -3174,11 +3174,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-durham-s_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-durham-s_2.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_durham_40s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_durham_40s_box.png'
       }
     ]
   },
@@ -3201,11 +3201,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-durham-rg_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-durham-rg_2.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_durham_36rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_durham_36rg_box.png'
       }
     ]
   },
@@ -3228,11 +3228,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-cornwall-rg_7.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-cornwall-rg_7.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_cornwall_40rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_cornwall_40rg_box.png'
       }
     ]
   },
@@ -3255,11 +3255,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-cornwall-s_8.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-40-cornwall-s_8.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_cornwall_40s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_cornwall_40s_box.png'
       }
     ]
   },
@@ -3282,11 +3282,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-cornwall-rg_8.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-cornwall-rg_8.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_cornwall_36rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_cornwall_36rg_box.png'
       }
     ]
   },
@@ -3309,11 +3309,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-cornwall-s_8.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl-36-cornwall-s_8.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_cornwall_36s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_cornwall_36s_box.png'
       }
     ]
   },
@@ -3336,31 +3336,31 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00400001_classic_cuff_large_rg_1_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00400001_classic_cuff_large_rg_1_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/2/1/219_1200x1200_classic_cuff_large_rg.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/2/1/219_1200x1200_classic_cuff_large_rg.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_rg_bangle_detail_3_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_rg_bangle_detail_3_1.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_rg_bangle_detail_2_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_rg_bangle_detail_2_1.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_rg_bangle_detail_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_rg_bangle_detail_1.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00400001_classic_cuff_large_rg_box_1_.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00400001_classic_cuff_large_rg_box_1_.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic-bracelet-rose-gold.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic-bracelet-rose-gold.jpg'
       }
     ]
   },
@@ -3383,27 +3383,27 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00400002_classic_cuff_large_s_1_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00400002_classic_cuff_large_s_1_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic-bracelet-silver_1.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic-bracelet-silver_1.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_s_bangle_detail_3_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_s_bangle_detail_3_1.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_s_bangle_detail_2_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_s_bangle_detail_2_1.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_s_bangle_detail_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_s_bangle_detail_1.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00400002_classic_cuff_large_s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00400002_classic_cuff_large_s_box.png'
       }
     ]
   },
@@ -3426,31 +3426,31 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00400003_classic_cuff_small_rg_1_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00400003_classic_cuff_small_rg_1_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/2/1/219_1200x1200_classic_cuff_small_rg.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/2/1/219_1200x1200_classic_cuff_small_rg.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_rg_bangle_detail_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_rg_bangle_detail_2.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_rg_bangle_detail.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_rg_bangle_detail.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_rg_bangle_detail_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_rg_bangle_detail_3.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00400003_classic_cuff_small_rg_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00400003_classic_cuff_small_rg_box.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic-bracelet-rose-gold_1.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic-bracelet-rose-gold_1.jpg'
       }
     ]
   },
@@ -3473,31 +3473,31 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00400004_classic_cuff_small_s_2_1.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00400004_classic_cuff_small_s_2_1.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/2/1/219_1200x1200_classic_cuff_small_s.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/2/1/219_1200x1200_classic_cuff_small_s.jpg'
       },
       {
         order: '2',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_s_bangle_detail_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_s_bangle_detail_3.png'
       },
       {
         order: '3',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_s_bangle_detail_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_s_bangle_detail_2.png'
       },
       {
         order: '4',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_s_bangle_detail.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw_s_bangle_detail.png'
       },
       {
         order: '5',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00400004_classic_cuff_small_s_box.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw00400004_classic_cuff_small_s_box.png'
       },
       {
         order: '6',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic-bracelet-silver.jpg'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/classic-bracelet-silver.jpg'
       }
     ]
   },
@@ -3520,7 +3520,7 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-bristol-36mm-rosegold-cat_2_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-bristol-36mm-rosegold-cat_2_2.png'
       }
     ]
   },
@@ -3543,7 +3543,7 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-sheffield-36mm-rosegold-cat_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-sheffield-36mm-rosegold-cat_3.png'
       }
     ]
   },
@@ -3566,7 +3566,7 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-st-mawes-36mm-rosegold-cat_2_2.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/d/w/dw-classic-black-st-mawes-36mm-rosegold-cat_2_2.png'
       }
     ]
   },
@@ -3589,11 +3589,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-bristol-rg_1_3.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-bristol-rg_1_3.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-bristol-rg_7.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-bristol-rg_7.png'
       }
     ]
   },
@@ -3616,7 +3616,7 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-durham-rg-cat_4.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-durham-rg-cat_4.png'
       }
     ]
   },
@@ -3639,11 +3639,11 @@ export const allProducts = [
     images: [
       {
         order: '0',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-glasgow-rg_1_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-glasgow-rg_1_5.png'
       },
       {
         order: '1',
-        src: 'https://www.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-glasgow-rg_2_5.png'
+        src: 'https://legacy-media.danielwellington.com/media/staticbucket/media/catalog/product/c/l/cl36-glasgow-rg_2_5.png'
       }
     ]
   }

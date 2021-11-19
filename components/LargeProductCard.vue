@@ -2,8 +2,9 @@
   <div v-b-hover="handleHover" class="card" :class="isHovered ? 'shadow' : ''">
     <div class="image-container">
       <img
-        class="image"
         v-if="productData.images && productData.images[0]"
+        class="image"
+        loading="lazy"
         :src="productData.images[0].src"
       />
     </div>
