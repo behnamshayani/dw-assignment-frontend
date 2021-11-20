@@ -1,11 +1,14 @@
 <template>
-  <div class="container">
-    <div class="cards-container">
-      <LargeProductCard
-        v-for="product in allProductsInfo"
-        :key="product.sku"
-        :product-data="product"
-      />
+  <div>
+    <Nav />
+    <div class="container">
+      <div class="cards-container">
+        <LargeProductCard
+          v-for="product in allProductsInfo"
+          :key="product.sku"
+          :product-data="product"
+        />
+      </div>
     </div>
   </div>
 </template>
