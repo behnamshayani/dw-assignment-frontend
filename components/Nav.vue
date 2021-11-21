@@ -1,28 +1,29 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-dark">
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto navbar-center">
-        <li class="nav-item">
-          <a class="nav-link" href="#">Valentine's Gifts</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Watches</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Jewelery</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Watch Bands</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Collections</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Shop Instagram</a>
-        </li>
-      </ul>
-    </div>
-  </nav>
+  <b-navbar sticky toggleable="lg" type="dark" variant="dark" class="header-nav nav-center w-100">
+    <b-navbar-toggle target="nav-collapse--menu" style="z-index: 90;" />
+    <b-collapse id="nav-collapse--menu" is-nav>
+      <b-navbar-nav id="nav-nav" class="custom-dropdown-menus nav-center">
+        <b-nav-item to="/page1" class="p-2">
+          Valentine's Gifts
+        </b-nav-item>
+        <b-nav-item to="/page2" class="p-2">
+          Watches
+        </b-nav-item>
+        <b-nav-item to="/page1" class="p-2">
+          Jewelery
+        </b-nav-item>
+        <b-nav-item to="/page2" class="p-2">
+          Watch Bands
+        </b-nav-item>
+        <b-nav-item to="/page1" class="p-2">
+          Collections
+        </b-nav-item>
+        <b-nav-item to="/page2" class="p-2">
+          Shop Instagram
+        </b-nav-item>
+      </b-navbar-nav>
+    </b-collapse>
+  </b-navbar>
 </template>
 
 <script>
@@ -31,17 +32,25 @@ export default {
 </script>
 
 <style scoped>
-.navbar-nav.navbar-center {
-  position: absolute;
-  left: 50%;
-  transform: translatex(-50%);
+
+@media (min-width: 961px) {
+  .nav-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+  }
 }
-.navbar {
+@media (max-width: 960px) {
+  .nav-center {
+    width: 50%;
+  }
+}
+.header-nav {
   height: 3.5rem;
-  background-color: rgb(0, 8, 28);
+  background-color: rgb(0, 8, 28) !important;
 }
 
-.navbar-dark .navbar-nav .nav-link {
+.navbar-dark .nav-link {
   color: rgb(255, 255, 255);
   font-family: DWFutura,sans-serif;
   letter-spacing: 2.4px;
@@ -49,6 +58,22 @@ export default {
   font-weight: normal;
   font-size: 13px;
   line-height: 15.6px;
+  padding-right: 0.25rem;
+  padding-left: 0.25rem;
+}
+
+.nav-item.active .nav-link,
+.nav-item:hover .nav-link {
+  color: rgb(255, 255, 255);
+}
+
+.navbar-nav {
+  background-color: rgb(0, 8, 28);
+}
+
+.navbar-toggler {
+  color: rgb(255, 255, 255);
+  border-color: rgb(255, 255, 255);
 }
 
 a {

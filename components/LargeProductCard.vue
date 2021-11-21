@@ -48,6 +48,32 @@ export default {
   border: none;
 }
 
+@media (max-width: 560px) {
+  .card-item {
+    width: 50%;
+    padding: 0px 0.4rem;
+  }
+  .image-container {
+    height: 220px;
+  }
+}
+
+@media (min-width: 561px) and (max-width: 960px) {
+  .image-container {
+    height: 300px;
+  }
+  .card-item {
+    width: 33%;
+    padding: 0px 0.4rem;
+  }
+}
+
+@media (min-width: 961px) {
+  .image-container {
+    height: 400px;
+  }
+}
+
 .card-link {
   display: flex;
   flex-direction: column;
@@ -68,7 +94,6 @@ export default {
 .image-container {
   display: flex;
   flex-wrap: wrap;
-  height: 400px;
   background-color: #C4CBCB2F;
 }
 
