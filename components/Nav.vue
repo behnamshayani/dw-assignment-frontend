@@ -37,7 +37,7 @@ export default {
   transform: translatex(-50%);
 }
 .navbar {
-  height: 3rem;
+  height: 3.5rem;
   background-color: rgb(0, 8, 28);
 }
 
