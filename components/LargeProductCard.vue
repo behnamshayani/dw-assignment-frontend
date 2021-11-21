@@ -1,24 +1,26 @@
 <template>
-  <div v-b-hover="handleHover" class="card" :class="isHovered ? 'shadow' : ''">
-    <div class="image-container">
-      <img
-        v-if="productData.images && productData.images[0]"
-        class="image"
-        loading="lazy"
-        :src="productData.images[0].src"
-      />
-    </div>
-    <div class="header-container">
-      <h3 class="header margin-section">{{ productData.name }}</h3>
-      <ColorSwatch
-        v-if="productData.color.id !== 'N/A'"
-        :color-data="productData.color"
-      />
-      <Price
-        :price-data="productData.price"
-      />
-    </div>
-  </div>
+  <li class="card-item">
+    <a v-b-hover="handleHover" class="card-link" :class="isHovered ? 'shadow' : ''" href="#">
+      <div class="image-container">
+        <img
+          v-if="productData.images && productData.images[0]"
+          class="image"
+          loading="lazy"
+          :src="productData.images[0].src"
+        />
+      </div>
+      <div class="header-container">
+        <h3 class="header margin-section">{{ productData.name }}</h3>
+        <ColorSwatch
+          v-if="productData.color.id !== 'N/A'"
+          :color-data="productData.color"
+        />
+        <Price
+          :price-data="productData.price"
+        />
+      </div>
+    </a>
+  </li>
 </template>
 
 <script>
@@ -38,14 +40,22 @@ export default {
 </script>
 
 <style scoped>
-.card {
+.card-item {
   width: 25%;
-  height: 33.5rem;
+  display: flex;
+  padding: 0px 0.7rem;
+  margin-bottom: 2rem;
   border: none;
-  overflow: hidden;
-  padding-left: 10px;
-  padding-right: 10px;
-  cursor: pointer;
+}
+
+.card-link {
+  display: flex;
+  flex-direction: column;
+  align-items: normal;
+  width: 100%;
+  color: rgb(0, 8, 28);
+  text-decoration: none;
+  padding: 0 0 2.2rem;
 }
 
 .image {
