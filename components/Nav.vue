@@ -3,22 +3,22 @@
     <b-navbar-toggle target="nav-collapse--menu" style="z-index: 90;" />
     <b-collapse id="nav-collapse--menu" is-nav>
       <b-navbar-nav id="nav-nav" class="custom-dropdown-menus nav-center">
-        <b-nav-item to="/page1" class="p-2">
+        <b-nav-item to="#" class="p-2">
           Valentine's Gifts
         </b-nav-item>
-        <b-nav-item to="/page2" class="p-2">
+        <b-nav-item to="#" class="p-2">
           Watches
         </b-nav-item>
-        <b-nav-item to="/page1" class="p-2">
+        <b-nav-item to="#" class="p-2">
           Jewelery
         </b-nav-item>
-        <b-nav-item to="/page2" class="p-2">
+        <b-nav-item to="#" class="p-2">
           Watch Bands
         </b-nav-item>
-        <b-nav-item to="/page1" class="p-2">
+        <b-nav-item to="#" class="p-2">
           Collections
         </b-nav-item>
-        <b-nav-item to="/page2" class="p-2">
+        <b-nav-item to="#" class="p-2">
           Shop Instagram
         </b-nav-item>
       </b-navbar-nav>
