@@ -1,4 +1,5 @@
 # client
+Fronted to display a list of products fetched from API, implemented using Nuxt/Vue.js framework.
 
 ## Build Setup
 
