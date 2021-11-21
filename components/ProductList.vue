@@ -1,7 +1,7 @@
 <template>
   <ul class="cards-list">
     <LargeProductCard
-      v-for="product in allProductsInfo"
+      v-for="product in allProducts"
       :key="product.sku"
       :product-data="product"
     />
@@ -9,13 +9,16 @@
 </template>
 
 <script>
-import { allProducts } from '@/assets/data.js'
-
 export default {
   data () {
     return {
-      allProductsInfo: allProducts
+      allProducts: []
     }
+  },
+  async fetch () {
+    this.allProducts = await fetch(
+      'https://lw9xczrbgi.execute-api.eu-north-1.amazonaws.com/products'
+    ).then(res => res.json())
   }
 }
 </script>
